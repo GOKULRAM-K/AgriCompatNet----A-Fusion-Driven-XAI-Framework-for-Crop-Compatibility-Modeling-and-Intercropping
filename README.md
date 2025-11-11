@@ -22,7 +22,6 @@ consistency.
   <img src="images/KEY_DIAGRAM.png" alt="AgriCompatNet Framework"
        width="600" height="400" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);">
   <br>
-  <em>Figure 1. Workflow of the AgriCompatNet framework for crop compatibility modeling.</em>
 </p>
 
 
