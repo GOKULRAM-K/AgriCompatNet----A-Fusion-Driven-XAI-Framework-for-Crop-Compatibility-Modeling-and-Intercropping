@@ -19,7 +19,7 @@ under ±10% environmental perturbations confirms the model’s robustness and ec
 consistency.
 
 <p align="center">
-  <img src="images/KEY_DIAGRAM.png" alt="AgriCompatNet Framework"
+  <img src="images/1_Graphical Insights.png" alt="AgriCompatNet Framework"
        width="600" height="400" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);">
   <br>
 </p>
