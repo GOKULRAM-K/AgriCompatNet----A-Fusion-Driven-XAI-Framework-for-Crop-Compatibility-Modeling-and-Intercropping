@@ -18,6 +18,14 @@ trient balance are the dominant compatibility drivers. A controlled sensitivity 
 under ±10% environmental perturbations confirms the model’s robustness and ecological
 consistency.
 
+<p align="center">
+  <img src="images/KEY_DIAGRAM.png" alt="AgriCompatNet Framework"
+       width="600" height="400" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.15);">
+  <br>
+  <em>Figure 1. Workflow of the AgriCompatNet framework for crop compatibility modeling.</em>
+</p>
+
+
 #Authors:
 1. Gokul Ram K - gokulram.k2023@vitstudent.ac.in
 2. Dr. Vignesh U - vignesh.u@vit.ac.in
