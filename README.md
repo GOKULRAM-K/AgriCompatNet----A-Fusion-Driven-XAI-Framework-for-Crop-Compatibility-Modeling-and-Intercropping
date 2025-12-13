@@ -5,7 +5,7 @@ complex inter-crop relationships under dynamic environmental conditions. This st
 introduces AgriCompatNet, a novel hybrid framework for interpretable crop-pair com-
 patibility analysis that integrates agronomic knowledge with data-driven learning. Four
 original algorithmic components are proposed: (i) the Nutrient Balance Index (NBI) for
-quantifying nutrient proportionality, (ii) the Environmental Resilience Score (ERS) for
+quantifying nutrient proportionality, (ii) the Environmental Resilience Score (ERS) for 
 measuring climatic adaptability, (iii) the Crop Compatibility Index (CCI) that fuses nu-
 trient complementarity and conflict dynamics through a logistic formulation, and (iv) the
 AgriCompatNet architecture itself, which unifies these indices within an explainable ma-
