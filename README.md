@@ -1,5 +1,3 @@
-## This work is the main part of a Research Work done by Gokul Ram K, Dr. U. Vignesh, and Dr. Geetha S
-# Abstract:
 Sustainable agriculture increasingly depends on intelligent systems capable of modeling
 complex inter-crop relationships under dynamic environmental conditions. This study
 introduces AgriCompatNet, a novel hybrid framework for interpretable crop-pair com-
